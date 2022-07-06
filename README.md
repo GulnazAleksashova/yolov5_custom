@@ -2,8 +2,7 @@ This repository "YOLOv5_custom" is based on the open-source yolov5 model, traine
 # Sample running of this model
 ![](https://github.com/GulnazAleksashova/yolov5_custom/blob/master/4.jpg)
 
-
-https://user-images.githubusercontent.com/93396925/177572227-5595cacb-f6dd-4184-a240-889ddc5c4acf.mp4
+https://user-images.githubusercontent.com/93396925/177572617-c827d03d-fe23-4576-ae43-a4787c57862a.mp4
 
 
 # Requirements
