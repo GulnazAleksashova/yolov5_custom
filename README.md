@@ -1,6 +1,11 @@
 This repository "YOLOv5_custom" is based on the open-source yolov5 model, trained on a custom dataset. The yolov5 code, mostly references to ultralytics's repository [thanks to Ultralytics](https://github.com/ultralytics/yolov5).
 # Sample running of this model
 ![](https://github.com/GulnazAleksashova/yolov5_custom/blob/master/4.jpg)
+
+
+https://user-images.githubusercontent.com/93396925/177572227-5595cacb-f6dd-4184-a240-889ddc5c4acf.mp4
+
+
 # Requirements
 Python 3.8 or later with all requirements dependencies installed, including torch>=1.7. To install run:
 ```python
