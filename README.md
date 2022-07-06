@@ -4,7 +4,6 @@ This repository "YOLOv5_custom" is based on the open-source yolov5 model, traine
 
 https://user-images.githubusercontent.com/93396925/177572617-c827d03d-fe23-4576-ae43-a4787c57862a.mp4
 
-
 # Requirements
 Python 3.8 or later with all requirements dependencies installed, including torch>=1.7. To install run:
 ```python
